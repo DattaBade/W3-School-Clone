@@ -1,0 +1,14 @@
+.ad-container{
+  
+    height: 100vh;
+    /* background-color: rgb(119, 103, 134); */
+
+    flex-grow: 1 ;
+    display: flex;
+    justify-content: center ;
+}
+
+.zomato-img-container{
+   margin-top: 5vh;
+ 
+}

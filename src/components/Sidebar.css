@@ -1,0 +1,29 @@
+.sidebar{
+  
+    width: 250px;
+    background-color: whitesmoke;
+    margin-top: 0px;
+    cursor: pointer;
+
+   
+}
+
+.sidebar-item-div{
+    height: 50px;
+    width: 100%;
+    
+    
+
+    display: flex;
+    align-items: center;
+}
+
+.sidebar-item-div:hover{
+    background-color: rgb(226, 225, 225)
+}
+
+.sidebar-item{
+    font-size: 18px;
+    margin-left: 35px;
+}
+

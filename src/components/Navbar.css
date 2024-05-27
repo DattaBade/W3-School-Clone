@@ -1,0 +1,26 @@
+.navbar{
+    height: 60px;
+    width: 100vw;
+    background-color: whitesmoke;
+
+    display: flex;
+}
+
+.nav-item-div{
+    height: 100%;
+    width: 100px;
+  
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item-div:hover{
+    background-color: #04AA6D;
+}
+
+.nav-item{
+    font-size: 18px;
+}
